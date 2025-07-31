@@ -16,11 +16,11 @@ export default function AboutPage() {
 
         <div className="text-lg text-gray-300 space-y-6">
           <p>
-            I’m a software engineer passionate about turning complex problems into intuitive, human-centered digital solutions. I bring backend logic and frontend finesse to every project I touch.
+            I'm a software engineer passionate about turning complex problems into intuitive, human-centered digital solutions. I bring backend logic and frontend finesse to every project I touch.
           </p>
 
           <p>
-            Whether it’s a travel planner built in Java + Firebase or a live sports tracking app powered by SQL and external APIs, I focus on delivering scalable, user-first products.
+            Whether it's a travel planner built in Java + Firebase or a live sports tracking app powered by SQL and external APIs, I focus on delivering scalable, user-first products.
           </p>
 
           <p>
@@ -28,7 +28,7 @@ export default function AboutPage() {
           </p>
 
           <p>
-            Outside of work, I’m exploring AI tools, learning new tech stacks, and sharpening my skills through open-source projects and real-world builds.
+            Outside of work, I'm exploring AI tools, learning new tech stacks, and sharpening my skills through open-source projects and real-world builds.
           </p>
         </div>
 

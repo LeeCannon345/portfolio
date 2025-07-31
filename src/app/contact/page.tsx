@@ -13,7 +13,7 @@ export default function ContactPage() {
         <h1 className="text-4xl font-bold text-center text-white">Contact Me</h1>
 
         <p className="text-center text-lg text-gray-300">
-          Let’s connect — whether it's about work, collaboration, or just to say hi.
+          Let's connect — whether it's about work, collaboration, or just to say hi.
         </p>
 
         <form className="space-y-6">

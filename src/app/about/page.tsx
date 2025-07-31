@@ -14,8 +14,8 @@ export default function AboutPage() {
           About Me
         </h1>
 
-        <div className="text-lg text-gray-300 space-y-6">
-          <p>
+       
+          <p className="text-center text-lg text-gray-300">
             I'm a software engineer passionate about turning complex problems into intuitive, human-centered digital solutions. I bring backend logic and frontend finesse to every project I touch.
           </p>
 
@@ -30,7 +30,7 @@ export default function AboutPage() {
           <p>
             Outside of work, I am exploring AI tools, learning new tech stacks, and sharpening my skills through open-source projects and real-world builds.
           </p>
-        </div>
+        
 
         <div className="mt-10">
           <a

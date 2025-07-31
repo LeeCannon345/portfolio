@@ -28,7 +28,7 @@ export default function AboutPage() {
           </p>
 
           <p>
-            Outside of work, I'm exploring AI tools, learning new tech stacks, and sharpening my skills through open-source projects and real-world builds.
+            Outside of work, I am exploring AI tools, learning new tech stacks, and sharpening my skills through open-source projects and real-world builds.
           </p>
         </div>
 
